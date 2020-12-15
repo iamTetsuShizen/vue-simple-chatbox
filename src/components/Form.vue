@@ -30,5 +30,20 @@ export default {
 </script>
 
 <style scoped>
+    form {
+        height: 5%;
+        display: flex;
 
+    }
+
+    form input {
+        background-color: transparent;
+        border: 1px solid #333333;
+        flex-grow: 2;
+        padding-left: 10px;
+    }
+
+    form button {
+        flex-grow: .3;
+    }
 </style>
