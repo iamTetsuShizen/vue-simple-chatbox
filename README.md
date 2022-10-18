@@ -1,4 +1,4 @@
-# inbenta-tech-test
+# vue-simple-chatbox
 
 ## Project setup
 ```
