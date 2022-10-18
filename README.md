@@ -1,5 +1,7 @@
 # vue-simple-chatbox
 
+This project was has only the front-end part of being a chatbot with yourself, you can fork and expand with a real bot analyzing your messages and responding accordingly!
+
 ## Project setup
 ```
 npm install
